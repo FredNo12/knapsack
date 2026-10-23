@@ -14,3 +14,5 @@ Description: The package calculates maximum knapsack value of the knapsack probl
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/FredNo12/knapsack
+BugReports: https://github.com/FredNo12/knapsack/issues
