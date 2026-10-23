@@ -1,0 +1,16 @@
+Package: knapsack
+Type: Package
+Title: The package calculates maximum knapsack value of the knapsack problem
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Fredrik", "Viklander",
+      email = "fredrikg.viklander@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: The package calculates maximum knapsack value of the knapsack problem
+    with functions using a brute force algoritm and greedy algoritm.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
